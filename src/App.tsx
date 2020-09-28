@@ -23,7 +23,7 @@ import './theme/variables.css';
 const App: React.FC = () => (
     <IonApp>
         <h1>HEY</h1>
-        <b>yyy</b>
+        <b>y</b>
     </IonApp>
 );
 
